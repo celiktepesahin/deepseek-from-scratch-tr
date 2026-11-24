@@ -44,7 +44,7 @@ bu depo. Yani yalnız `.ipynb` dosyasını alıp Kaggle'a atsan da eksiksiz çal
 | `FULL-SERIES.ipynb` | serinin bütün kodu, tek defter |
 | `_data/how-words-work.txt` | ön eğitim korpusu |
 | `part-1-bridge/` | ders 1'in anlatım haritası |
-| `part-2-attention-development/` | ders 2 ve 3'ün anlatım haritaları |
+| `part-2-attention-development/` | ders 2, 3 ve 4'ün anlatım haritaları |
 
 Anlatım haritaları **Excalidraw** dosyasıdır: sürükleyip bırakınca açılır, üstüne yazabilir,
 kendi notlarını ekleyebilirsin. Her bölümün haritası, o bölümün videosu yayımlandıkça
